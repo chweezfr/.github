@@ -33,6 +33,6 @@ SEO/SEA · Google/Meta Ads · Stripe · Zapier
 ---
 
 ## 📬 Me contacter
-🌐 [https://chweez.fr](chweez.fr)\
+🌐 [chweez.fr](https://chweez.fr)\
 📧 contact@chweez.fr\
-🧵 Instagram [https://instagram.com/chweezfr](@chweezfr)
+🧵 Instagram [@chweezfr](https://www.instagram.com/chweezfr)
