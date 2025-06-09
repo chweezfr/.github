@@ -18,22 +18,21 @@ Bienvenue sur mon profil ! Je conçois des sites web efficaces, des CRM sur mesu
 
 ## 🔍 Derniers projets
 
-– écosystème e-commerce complet + CRM
-– site vitrine e-commerce
+- écosystème e-commerce complet + CRM
+- site vitrine e-commerce
 - site de leadgen + CRM de gestion
 
 ---
 
 ## 🚀 Tech Stack
 
-```bash
-Symfony · PHP · MySQL · HTML/CSS · JavaScript · API REST
-WordPress · Webflow · Airtable · Notion
+Symfony · PHP · MySQL · HTML/CSS · JavaScript · API REST\
+WordPress · Webflow · Airtable · Notion\
 SEO/SEA · Google/Meta Ads · Stripe · Zapier
 
 ---
 
 ## 📬 Me contacter
-🌐 chweez.fr
-📧 contact@chweez.fr
-🧵 Instagram @chweezfr
+🌐 [https://chweez.fr](chweez.fr)\
+📧 contact@chweez.fr\
+🧵 Instagram [https://instagram.com/chweezfr](@chweezfr)
