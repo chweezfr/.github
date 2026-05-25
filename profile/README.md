@@ -19,7 +19,7 @@ On construit l'infrastructure de croissance que les SaaS ne vendent pas : agents
 
 Les agences GTM configurent des SaaS. Vous repartez avec un CRM que personne ne comprend, des workflows qui cassent, et une facture d'abonnements.
 
-Chweez code. Si ça n'existe pas, on le construit.
+chweez code. Si ça n'existe pas, on le construit.
 
 ---
 
