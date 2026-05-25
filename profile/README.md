@@ -1,38 +1,51 @@
-# 👋 Hello, I'm Chweez
+# chweez
 
-### 🛠️ Full-Stack Web Developer · Digital Swiss Army Knife
+## GTM Engineering : construit sur mesure, pas configuré
 
-Bienvenue sur mon profil ! Je conçois des sites web efficaces, des CRM sur mesure et des outils digitaux pensés pour la performance et la simplicité.
-
----
-
-## 🧩 Ce que je fais
-
-- 🔧 **Création de sites web** (vitrine, e-commerce, tunnel de vente)
-- ⚙️ **Développement sur mesure** (Symfony, PHP, API, intégrations)
-- 📈 **Optimisation SEO** & génération de leads
-- 📬 **Automatisations marketing** & CRM personnalisés
-- 📱 **Animation réseaux sociaux** (stratégie & exécution)
+On construit l'infrastructure de croissance que les SaaS ne vendent pas : agents IA, CRM sur mesure, web haute-performance, acquisition pilotée par la data.
 
 ---
 
-## 🔍 Derniers projets
+## Ce qu'on construit
 
-- écosystème e-commerce complet + CRM
-- site vitrine e-commerce
-- site de leadgen + CRM de gestion
-
----
-
-## 🚀 Tech Stack
-
-Symfony · PHP · MySQL · HTML/CSS · JavaScript · API REST\
-WordPress · Webflow · Airtable · Notion\
-SEO/SEA · Google/Meta Ads · Stripe · Zapier
+- **Agents IA sur mesure** : qualification, outbound, support, génération de contenu. Déployés en production. Pas des wrappers ChatGPT.
+- **CRM sur mesure** : développé pour votre process réel, IA native, téléphonie, reporting temps réel. Pas un template HubSpot.
+- **Web & Conversion** : landing pages haute-performance connectées à votre stack. Un actif de croissance, pas un site vitrine.
+- **Google Ads & Meta Ads** : campagnes pilotées par vos données. Attribution précise, reporting temps réel, optimisation continue.
 
 ---
 
-## 📬 Me contacter
+## Pourquoi "builder" et pas "configurateur"
+
+Les agences GTM configurent des SaaS. Vous repartez avec un CRM que personne ne comprend, des workflows qui cassent, et une facture d'abonnements.
+
+Chweez code. Si ça n'existe pas, on le construit.
+
+---
+
+## Derniers projets
+
+- CRM courtier immobilier : qualification automatisée + reporting temps réel
+- Écosystème e-commerce : pipeline d'acquisition + gestion client intégrée
+- Agent IA outbound : prospection B2B automatisée, branché sur CRM existant
+
+---
+
+## Stack
+
+| Catégorie | Outils |
+| --- | --- |
+| IA & Agents | Claude API, OpenAI, n8n AI nodes |
+| Web & Frontend | React, Next.js, TypeScript, Tailwind |
+| Backend & Data | Symfony, PHP, Supabase, PostgreSQL |
+| Orchestration | n8n, Make, Zapier, Webhooks |
+| Acquisition | Google Ads, Meta Ads |
+| Infra | Supabase, Vercel, Cloudflare |
+
+---
+
+## Contact
+
 🌐 [chweez.fr](https://chweez.fr)\
 📧 contact@chweez.fr\
-🧵 Instagram [@chweezfr](https://www.instagram.com/chweezfr)
+📱 WhatsApp via chweez.fr
